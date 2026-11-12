@@ -1,5 +1,5 @@
 ---
-title: "I Built My Portfolio Like a System Boot Sequence: Astro, Tailwind v4, and Framer Motion"
+title: "How I Built My Portfolio"
 description: "How I designed my developer portfolio around a system boot sequence, connecting full-stack development with ethical security testing."
 pubDate: 'Oct 11 2026'
 author: Irikefe M. Kesiena
